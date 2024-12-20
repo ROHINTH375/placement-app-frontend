@@ -1,0 +1,80 @@
+/* General container */
+.dashboard-container {
+    padding: 30px;
+    background-color: #f8f9fa;
+}
+
+/* Header */
+header h1 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #007bff;
+}
+
+header p {
+    font-size: 18px;
+    color: #6c757d;
+}
+
+/* Card */
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+    font-size: 28px;
+    color: #343a40;
+}
+
+.card .details-container p {
+    font-size: 18px;
+    color: #495057;
+}
+
+/* Table Styles */
+.table th, .table td {
+    padding: 15px;
+    font-size: 16px;
+}
+
+.table thead {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Image */
+.image-container img {
+    max-width: 150px;
+    border-radius: 10px;
+}
+
+/* Buttons */
+button {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+/* Footer */
+.footer {
+    font-size: 14px;
+    color: #6c757d;
+    margin-top: 50px;
+}
+
+.company-logo{
+    width: 50%;
+    height: 30%;
+    border-radius: 20px;
+}

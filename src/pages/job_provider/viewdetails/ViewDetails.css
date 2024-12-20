@@ -1,0 +1,43 @@
+.view-details-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+}
+
+.candidate-details {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.candidate-info {
+    margin-bottom: 20px;
+}
+
+.candidate-info p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.candidate-info strong {
+    font-weight: bold;
+}
+
+.resume-download a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.resume-download a:hover {
+    background-color: #0056b3;
+}
+
+.text-center {
+    text-align: center;
+}
